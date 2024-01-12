@@ -1,0 +1,75 @@
+#PS {
+	border: solid;
+	border-width: 100;
+	text-align: center;
+	background-color: floralwhite;
+	font-size: 50px;
+}
+#D1 {
+	border: solid;
+	text-align: center;
+	width: 19.7%;
+	border-width: medium;
+	display: inline-block;	
+	font-style: italic;
+}
+#D2 {
+	border: solid;
+	text-align: center;
+	width: 70%;
+	border-width: medium;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: palegreen;
+	font-size: 30px;
+	font-style: italic;
+}
+#D3 {
+	border: solid;
+	text-align: center;
+	width: 70%;
+	border-width: medium;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: palegreen;
+	font-size: 30px;
+	font-style: italic;
+	
+}
+#D4 {
+	border: solid;
+	text-align: center;
+	width: 19.7%;
+	border-width: medium;
+	display: inline-block;
+}
+
+#LOGO {
+	width: 400;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#my {
+	zoom: 50%;
+}
+p {
+	font: italic;
+}
+h2 {
+	font: serif;
+	font: italic;
+}
+body {
+	background-repeat: no-repeat;
+	background-image: url('GF.gif');
+	background-size: cover;
+	background-attachment: fixed;
+}
+input[type=submit] {
+    width: 10em;  height: 4em;
+    font-size: 26px;
+    font-style: italic;
+    font-family:"DejaVu Sans","DejaVu Sans Mac Name","DejaVu Sans Unix Name","Times New Roman"
+}
